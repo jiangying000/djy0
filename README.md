@@ -11,4 +11,4 @@ I'm contributing at [Starcoin Org](https://github.com/starcoinorg)
 
 [![Jiang Ying's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangying000&show_icons=true&theme=solarized-dark)](https://github.com/jiangying000) 
 
-see alse: https://ossinsight.io/analyze/jiangying000
+see also: https://ossinsight.io/analyze/jiangying000
