@@ -1,6 +1,4 @@
-Hello, this is jiang ying.
-
-A backend (formerly frontend) web developer
+Hello, this is jiang ying, A backend (formerly frontend) web developer
 
 I'm learning Rust/Move Lang and blockchain techs
 
