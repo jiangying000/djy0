@@ -1,8 +1,10 @@
-Hello, this is jiang ying, A backend (formerly frontend) web developer
+Hello, this is jiang ying
 
-I'm learning Rust/Move Lang and blockchain techs
+I'm learning [Rust](https://github.com/rust-lang/rust) / [Move](https://github.com/move-language/move) Lang and blockchain techs
 
 I'm contributing at [Starcoin Org](https://github.com/starcoinorg) 
+
+Also A server-side developer, and used to be a frontend developer
 
 <!-- and [Move Lang](https://github.com/move-language) -->
 
