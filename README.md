@@ -4,7 +4,7 @@ I'm learning [Rust](https://github.com/rust-lang/rust) / [Move](https://github.c
 
 I'm contributing at [Starcoin Org](https://github.com/starcoinorg) 
 
-Also A server-side developer, and used to be a frontend developer
+A server-side developer, and used to be a frontend developer
 
 <!-- and [Move Lang](https://github.com/move-language) -->
 
