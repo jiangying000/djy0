@@ -1,8 +1,6 @@
 Hello, this is jiang ying
 
-I'm learning [Rust](https://github.com/rust-lang/rust) / [Move](https://github.com/move-language/move) Lang and blockchain techs
-
-I'm contributing at [Starcoin Org](https://github.com/starcoinorg) 
+I'm contributing at [Starcoin Org](https://github.com/starcoinorg) and learning [Rust](https://github.com/rust-lang/rust) / [Move](https://github.com/move-language/move) Lang and blockchain techs
 
 A server-side developer, and used to be a frontend developer
 
